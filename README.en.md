@@ -4,7 +4,7 @@
 
 # 👨‍💻 FastedNgoding (Nazri)
 
-Hi! I'm **Nazri**, a passionate student in the world of technology — especially in **Web Development**, **3D Web**, and **Interactive Programming**.
+Hi! I'm **Nazri**, a passionate student in the world of technology — especially in **Web Development**, **AI**, and **Interactive Programming**.
 
 - 🌱 Always learning and experimenting with new technologies.
 - 📫 Check out my portfolio: [nazri.developer.li](https://nazri.developer.li)
