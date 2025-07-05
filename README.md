@@ -4,7 +4,7 @@
 
 # 👨‍💻 FastedNgoding (Nazri)
 
-Hai! Aku **Nazri**, seorang pelajar yang antusias di dunia teknologi, khususnya di bidang **Web Development**, **3D Web**, dan **Pemrograman Interaktif**.
+Hai! Aku **Nazri**, seorang pelajar yang antusias di dunia teknologi, khususnya di bidang **Web Development**, **AI**, dan **Pemrograman Interaktif**.
 
 - 🌱 Selalu belajar dan bereksperimen dengan teknologi baru.
 - 📫 Lihat portofolioku di: [nazri.developer.li](https://nazri.developer.li)
