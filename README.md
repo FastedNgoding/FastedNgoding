@@ -1,5 +1,5 @@
 <p align="right">
-  🇬🇧 <a href="README.en.md">Read in English</a>
+  🌎 <a href="README.en.md">Read in English</a>
 </p>
 
 # 👨‍💻 FastedNgoding (Nazri)
