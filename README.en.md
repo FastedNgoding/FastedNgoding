@@ -1,3 +1,7 @@
+<p align="right">
+  🌎 <a href="README.en.md">Read in Indonesian</a>
+</p>
+
 # 👨‍💻 FastedNgoding (Nazri)
 
 Hi! I'm **Nazri**, a passionate student in the world of technology — especially in **Web Development**, **3D Web**, and **Interactive Programming**.
