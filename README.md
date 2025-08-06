@@ -17,7 +17,7 @@ Hai! Aku **Nazri**, seorang pelajar yang antusias di dunia teknologi, khususnya 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![LARAVEL](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/Laravel.svg.png?)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-ff2d20?logo=laravel&logoColor=white)
 
 ---
 
